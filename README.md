@@ -14,6 +14,8 @@ Welcome to the Recipe Vault, where you can create, save, and manage your favorit
 
 - **Favorite Recipes:** Mark your favorite recipes and filter your collection to quickly access them.
 
+- **Implemented Redis**.
+
 ## Usability Study Reports
 
 During the development of Recipe Vault, we conducted several usability studies to gather feedback on the application's functionality and user experience. These studies involved participants performing specific tasks while we observed their interactions with the app, and collecting their feedback through surveys and interviews.
